@@ -1,2 +1,2 @@
 # CHui_MASDS_Thesis_PEG_Application
-MASDS Thesis Application
+MASDS Thesis PEG Application
